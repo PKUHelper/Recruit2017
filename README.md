@@ -55,7 +55,7 @@ GUI 形式的 UI 样式可以参考 PKU Helper 或校方网站的形式。
 [Google Kickstart Round E](https://codejam.withgoogle.com/codejam/contest/12234486/dashboard)：完成其中任何一道题目即可。当然，如果你全部完成我们也非常欢迎~
 
 ### T4
-如果你考虑申请PKU Helper iOS开发者的岗位，请完成调查表[iOS调查](https://github.com/PKUHelper/Recruit2017/iOS调查.numbers)。如果发现有许多名词不认识也不要紧张，这只是决定我们在面试中的话题，就算你什么都不会，我们依然可以手把手教你:)
+如果你考虑申请PKU Helper iOS开发者的岗位，请完成调查表[iOS调查](https://github.com/PKUHelper/Recruit2017/blob/master/iOS调查.numbers)。如果发现有许多名词不认识也不要紧张，这只是决定我们在面试中的话题，就算你什么都不会，我们依然可以手把手教你:)
 
 ## 设计/产品
 
@@ -70,5 +70,4 @@ GUI 形式的 UI 样式可以参考 PKU Helper 或校方网站的形式。
 我们在上学年曾经组织过一次技术沙龙，但效果不甚理想。
 
 也希望你能讲一讲你所设想的，未来 PKU Helper 可以展开的任何形式的活动，线上或线下均可。如果你加入 PKU Helper，你会在未来做些什么努力，带来什么改变。在 PKU Helper 的运营岗位你可以拥有很大的自由度（因为我们都不擅长…），你可以主导活动的开展。
-
 
