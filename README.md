@@ -8,7 +8,7 @@
 
 **邮件题目格式形如 `1700012345-张三-PKUHelperRecruit`，截止时间为 2017-10-15 23:59:59。**
 
-如有其它问题，可以加入此群询问(如果你看不到图说明github图片又抽风了，请Download此repo查看)
+如有其它问题，可以加入此群询问（如果你看不到图说明 GitHub 图片又抽风了，请到[托管地址](https://github.com/PKUHelper/Recruit2017/blob/master/pkuhelper_recruit_2017_wechat_qrcode.jpg)点击 `Download` 查看）
 
 <img src='https://raw.githubusercontent.com/PKUHelper/Recruit2017/master/pkuhelper_recruit_2017_wechat_qrcode.jpg' width="300px" style='border: #f1f1f1 solid 1px'/>
 
