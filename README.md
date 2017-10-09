@@ -10,7 +10,7 @@
 
 如有其它问题，可以加入此群询问。
 
-<img src='https://raw.githubusercontent.com/PKUHelper/Recruit2017/master/pkuhelper_recruit_2017_wechat_qrcode.jpg' width="300px" style='border: #f1f1f1 solid 1px'/>
+<img src='https://raw.githubusercontent.com/PKUHelper/Recruit2017/master/pkuhelper_recruit_2017_wechat_qrcode.jpg' width="300px" alt="如果你看不到图说明github图片又抽风了，请Download此repo查看" style='border: #f1f1f1 solid 1px'/>
 
 ## 开发
 
