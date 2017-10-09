@@ -6,6 +6,10 @@
 
 请以邮件的方式提供你意向岗位所要求的信息，发送至 helper@pku.edu.cn。
 
+如有其它问题，可以加入此群询问。
+
+<img src='https://raw.githubusercontent.com/PKUHelper/Recruit2017/master/pkuhelper_recruit_2017_wechat_qrcode.jpg' width="300px" style='border: #f1f1f1 solid 1px'/>
+
 ## 开发
 
 如果你希望成为 PKU Helper 开发者，请尝试给出以下三道题目的解答。
